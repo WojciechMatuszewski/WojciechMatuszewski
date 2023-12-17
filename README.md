@@ -2,8 +2,6 @@
 
 I'm Wojciech – an empathy-driven engineer helping companies solve technical problems using Serverless Cloud and The Web.
 
-I'm looking for a new job 🧑‍💻! [You can find my LinkedIn profile here](https://www.linkedin.com/in/wojciech-matuszewski-208a22174/).
-
 ---
 
 - 📚 I write on [dev.to](https://dev.to/wojciechmatuszewski)
